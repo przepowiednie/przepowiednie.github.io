@@ -511,11 +511,11 @@
           "_name": "content2",
           "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light mbr-py-1\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">\n                    Atak z powietrza</h3>\n                <p class=\"mbr-text mbr-fonts-style mbr-py-1\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Data publikacji: 05.06.2020</b> \n<br>\n<br>Atak z powietrza będzie prowadzony nad wodą. Wydarzy się to nocą (czasu polskiego). Rejon: być może Indie, Pakistan. &nbsp;<br>\n<br>Źródło: <a href=\"https://www.youtube.com/watch?v=yT5hBElZ-To\" target=\"_blank\">https://www.youtube.com/watch?v=yT5hBElZ-To</a> \n<br>\n<br>Komentarz: Czekamy</p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "s7r1l0s2k8",
+          "_anchor": "content2-o",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content2-o"
+          "_params": {}
         }
       ]
     },
