@@ -42,7 +42,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 34,
+    "uniqCompNum": 35,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -643,13 +643,13 @@
             }
           },
           "_name": "content2",
-          "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light mbr-py-1\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">\n                    Zanikanie pandemii po 17 marca</h3>\n                <p class=\"mbr-text mbr-fonts-style mbr-py-1\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Data publikacji: 05.03.2020</b> \n<br>\n<br>Narastanie pandemii (choć i tak będą to jednostkowe przypadki) będzie trwało do 17 marca. Po tym okresie nastąpi przełom i pandemia na świecie zacznie tracić na sile. &nbsp; &nbsp;&nbsp;<br>\n<br>Źródło: <a href=\"https://www.youtube.com/watch?v=lHLoQqmT2mE\" target=\"_blank\">https://www.youtube.com/watch?v=lHLoQqmT2mE</a> \n<br>\n<br>Komentarz: Ta wizja zupełnie się nie potwierdziła. Z góry odniosę się wskazywanie faktu, iż 17 marca podano, że wyzdrowiał \"pacjant zero\". Po pierwsze wizja mówiła, że po 17 marca pandemia zacznie tracić na sile, co ewidentnie się nie stało. Po drugie zaś stan zdrowia jednego z chorych (nawet jeżeli jest to \"pacjent zero\" nie jest żadnym przełomem).</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light mbr-py-1\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">\n                    Zanikanie pandemii po 17 marca</h3>\n                <p class=\"mbr-text mbr-fonts-style mbr-py-1\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Data publikacji: 05.03.2020</b> \n<br>\n<br>Narastanie pandemii (choć i tak będą to jednostkowe przypadki) będzie trwało do 17 marca. Po tym okresie nastąpi przełom i pandemia na świecie zacznie tracić na sile. &nbsp; &nbsp;&nbsp;<br>\n<br>Źródło: <a href=\"https://www.youtube.com/watch?v=lHLoQqmT2mE\" target=\"_blank\">https://www.youtube.com/watch?v=lHLoQqmT2mE</a> \n<br>\n<br><b>Data publikacji: 27.01.2020</b> \n<br>\n<br>Prócz dużych ognisk zapalnych w Azji tu skończy się epizodoami. Nic wielkiego w Europie z tym wirusem się nie stanie.&nbsp;<br>\n<br>Źródło: <a href=\"https://www.youtube.com/watch?v=yydogN7oqGA\" target=\"_blank\">https://www.youtube.com/watch?v=yydogN7oqGA</a>&nbsp;<br><br>Komentarz: Ta wizja zupełnie się nie potwierdziła. Z góry odniosę się wskazywanie faktu, iż 17 marca podano, że wyzdrowiał \"pacjant zero\". Po pierwsze wizja mówiła, że po 17 marca pandemia zacznie tracić na sile, co ewidentnie się nie stało. Po drugie zaś stan zdrowia jednego z chorych (nawet jeżeli jest to \"pacjent zero\" nie jest żadnym przełomem). Wizja ze stycznia odnośnie do skali epidemii w Europie też ewidentnie nietrafiona.</p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "s7CpM8aTUJ",
+          "_anchor": "content2-w",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content2-w"
+          "_params": {}
         },
         {
           "alias": false,
@@ -661,11 +661,27 @@
           "_name": "content2",
           "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light mbr-py-1\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">Zbiorowe zatrucie - Gdańsk</h3>\n                <p class=\"mbr-text mbr-fonts-style mbr-py-1\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Data publikacji: 05.03.2020</b> \n<br>\n<br>Zbiorowe zatrucie spożywaniem płynów (prawdopodobnie produkt spożywczy). Okolice Gdanska<br>\n<br>Źródło: <a href=\"https://www.youtube.com/watch?v=lHLoQqmT2mE\" target=\"_blank\">https://www.youtube.com/watch?v=lHLoQqmT2mE</a> \n<br>\n<br>Komentarz: Czekamy</p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "s7CqKbbGMZ",
+          "_anchor": "content2-x",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content2-x"
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content2",
+          "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light mbr-py-1\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">\n                    Zamach na polityka</h3>\n                <p class=\"mbr-text mbr-fonts-style mbr-py-1\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Data publikacji: 27.01.2020 \n</b><br>\n<br>Zamach na znaczącego polityka, który wstrząśnie światem.<br>\n<br>Źródło: <a href=\"https://www.youtube.com/watch?v=yydogN7oqGA\" target=\"_blank\">https://www.youtube.com/watch?v=yydogN7oqGA</a> \n<br>\n<br>Komentarz: Czekamy</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "s7CGOsU0nv",
+          "_anchor": "content2-y",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
         }
       ]
     },
