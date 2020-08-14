@@ -675,7 +675,7 @@
             "background-color": "@bgColor"
           },
           "_name": "content2",
-          "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light mbr-py-1\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">\n                    Zamach na polityka</h3>\n                <p class=\"mbr-text mbr-fonts-style mbr-py-1\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Data publikacji: 27.01.2020 \n</b><br>\n<br>Zamach na znaczącego polityka, który wstrząśnie światem.<br>\n<br>Źródło: <a href=\"https://www.youtube.com/watch?v=yydogN7oqGA\" target=\"_blank\">https://www.youtube.com/watch?v=yydogN7oqGA</a> \n<br>\n<br>Komentarz:&nbsp;</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light mbr-py-1\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">\n                    Zamach na polityka</h3>\n                <p class=\"mbr-text mbr-fonts-style mbr-py-1\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Data publikacji: 27.01.2020 \n</b><br>\n<br>Zamach na znaczącego polityka, który wstrząśnie światem.<br>\n<br>Źródło: <a href=\"https://www.youtube.com/watch?v=yydogN7oqGA\" target=\"_blank\">https://www.youtube.com/watch?v=yydogN7oqGA</a> \n<br>\n<br><b>Data publikacji: 07.01.2020</b> \n<br>\n<br>Tu nawet pada wskazanie, o którego polityka może chodzić.\n<br>\n<br>Źródło: <a href=\"https://www.youtube.com/watch?v=ae9dl4e13GE\" target=\"_blank\">https://www.youtube.com/watch?v=ae9dl4e13GE</a> \n<br><br>Komentarz:&nbsp;</p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "s7CGOsU0nv",
           "_anchor": "content2-y",
           "_protectedParams": [],
@@ -696,11 +696,11 @@
           "_name": "content2",
           "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light mbr-py-1\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">\n                    Kataklizm na Podkarpaciu</h3>\n                <p class=\"mbr-text mbr-fonts-style mbr-py-1\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Data publikacji: 15.01.2020</b> \n<br>\n<br>Kataklizm na Podkarpaciu.&nbsp;<br>\n<br>Źródło: <a href=\"https://www.youtube.com/watch?v=OB_6QGfmrZo\" target=\"_blank\">https://www.youtube.com/watch?v=OB_6QGfmrZo</a> \n<br>\n<br>Komentarz: W czerwcu Podkarpacie doświadczyło powodzi w zasadzie ograniczonej do tego regionu. Wizję nalezy uznać za trafną.</p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "s7CQSeGv7k",
+          "_anchor": "content2-z",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content2-z"
+          "_params": {}
         },
         {
           "alias": false,
@@ -715,11 +715,11 @@
           "_name": "content2",
           "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light mbr-py-1\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">Zaszkodzenie kandydaturze Kidawy-Błońskiej</h3>\n                <p class=\"mbr-text mbr-fonts-style mbr-py-1\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Data publikacji: 15.01.2020</b> \n<br>\n<br>Krótko przed wyborami coś ze strony opozycji zaszkodzi kandydaturze Pani Kidawy-Błońskiej. &nbsp;<br>\n<br>Źródło: <a href=\"https://www.youtube.com/watch?v=OB_6QGfmrZo\" target=\"_blank\">https://www.youtube.com/watch?v=OB_6QGfmrZo</a> \n<br>\n<br>Komentarz: Wizja potwierdzona. Opozycja wymieniła swojego kandydata, co można uznać za ekstremalną formę zaszkodzenia.</p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "s7CRR8RoBX",
+          "_anchor": "content2-10",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content2-10"
+          "_params": {}
         },
         {
           "alias": false,
@@ -731,11 +731,11 @@
           "_name": "content2",
           "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light mbr-py-1\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">Incydent z dwoma tramwajami</h3>\n                <p class=\"mbr-text mbr-fonts-style mbr-py-1\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Data publikacji: 15.01.2020 \n<br></b>\n<br>W dużym polskim mieście nastąpi incydent z dwoma tramwajami, przy czym będą podejrzenia o zamach. &nbsp;<br>\n<br>Źródło: <a href=\"https://www.youtube.com/watch?v=OB_6QGfmrZo\" target=\"_blank\">https://www.youtube.com/watch?v=OB_6QGfmrZo</a> \n<br>\n<br>Komentarz:&nbsp;</p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "s7CTvljFM7",
+          "_anchor": "content2-11",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content2-11"
+          "_params": {}
         },
         {
           "alias": false,
@@ -747,11 +747,11 @@
           "_name": "content2",
           "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light mbr-py-1\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">\n                    Samobójstwo polityka</h3>\n                <p class=\"mbr-text mbr-fonts-style mbr-py-1\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Data publikacji: 15.01.202</b>0 \n<br>\n<br>Samobójstwo poloityka przez powieszenie. &nbsp;<br>\n<br>Źródło: <a href=\"https://www.youtube.com/watch?v=OB_6QGfmrZo\" target=\"_blank\">https://www.youtube.com/watch?v=OB_6QGfmrZo</a> \n<br>\n<br>Komentarz:&nbsp;</p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "s7CWrsWhTt",
+          "_anchor": "content2-12",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content2-12"
+          "_params": {}
         },
         {
           "alias": false,
@@ -763,11 +763,11 @@
           "_name": "content2",
           "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light mbr-py-1\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">\n                    Inflacja</h3>\n                <p class=\"mbr-text mbr-fonts-style mbr-py-1\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Data publikacji: 15.01.2020</b> \n<br>\n<br>Inflacja w pewnych segmentach będzie szokująco wysoka.  \n<br>\n<br>Źródło: <a href=\"https://www.youtube.com/watch?v=OB_6QGfmrZo\" target=\"_blank\">https://www.youtube.com/watch?v=OB_6QGfmrZo</a> \n<br>\n<br>Komentarz:&nbsp;</p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "s7CXtF5a3k",
+          "_anchor": "content2-13",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content2-13"
+          "_params": {}
         },
         {
           "alias": false,
@@ -779,11 +779,11 @@
           "_name": "content2",
           "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light mbr-py-1\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">Kłopoty polityka z Trójmasta</h3>\n                <p class=\"mbr-text mbr-fonts-style mbr-py-1\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Data publikacji: 15.01.2020</b> \n<br>\n<br>Pojawią się zarzuty wobec Pani polityk z Trójmasta, że działa na rzecz obcego państwa.<br>\n<br>Źródło: <a href=\"https://www.youtube.com/watch?v=OB_6QGfmrZo\" target=\"_blank\">https://www.youtube.com/watch?v=OB_6QGfmrZo</a> \n<br>\n<br>Komentarz:</p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "s7CXNqXD4i",
+          "_anchor": "content2-14",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content2-14"
+          "_params": {}
         }
       ]
     },
