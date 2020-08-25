@@ -1257,11 +1257,11 @@
           "_name": "content2",
           "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light mbr-py-1\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">\n                    Eskalacja sytaucji w Chicago i Nowym Yorku</h3>\n                <p class=\"mbr-text mbr-fonts-style mbr-py-1\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Data publikacji: 21.08.2020</b> \n<br>Następne 2/3 miesiące bardzo niebezpieczne. Powszechne strzelaniny. Skojarzenie: \"czarna krew\" - nie ma związku z kwestiami rasowymi. &nbsp; &nbsp;<br>\n<br>Źródło: <a href=\"https://www.youtube.com/watch?v=ABMcdbFzxjQ\" target=\"_blank\">https://www.youtube.com/watch?v=ABMcdbFzxjQ</a> \n<br>\n<br>Komentarz:&nbsp;</p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "s8GxzcEp7b",
+          "_anchor": "content2-1r",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content2-1r"
+          "_params": {}
         },
         {
           "alias": false,
@@ -1276,11 +1276,11 @@
           "_name": "content2",
           "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light mbr-py-1\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">\n                    Katastrofa dwóch autokarów</h3>\n                <p class=\"mbr-text mbr-fonts-style mbr-py-1\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Data publikacji: 21.08.2020</b> \n<br>Północno-zachodnia Polska, katastrofa dwóch autokarów. &nbsp; &nbsp;<br>\n<br>Źródło: <a href=\"https://www.youtube.com/watch?v=ABMcdbFzxjQ\" target=\"_blank\">https://www.youtube.com/watch?v=ABMcdbFzxjQ</a> \n<br>\n<br>Komentarz: 22 sierpnia nastąpiło zderzenie busa z autobusem w Gliwicach. 9 osób zginęło. Region kraju zgadza się co do zachodu Polski, lecz południe a nie zapowiadana północ.&nbsp;<br><br>https://www.polsatnews.pl/wiadomosc/2020-08-23/bus-zderzyl-sie-za-autokarem-zginelo-9-osob-sila-uderzenia-byla-ogromna/<br></p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "s8GufYsFC0",
+          "_anchor": "content2-1q",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content2-1q"
+          "_params": {}
         },
         {
           "alias": false,
@@ -1293,13 +1293,13 @@
             }
           },
           "_name": "content2",
-          "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light mbr-py-1\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">Potężny pożar</h3>\n                <p class=\"mbr-text mbr-fonts-style mbr-py-1\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Data publikacji: 21.08.2020</b> \n<br>Potężny pożar na południu Polski. &nbsp; &nbsp;<br>\n<br>Źródło: <a href=\"https://www.youtube.com/watch?v=ABMcdbFzxjQ \" target=\"_blank\">https://www.youtube.com/watch?v=ABMcdbFzxjQ </a>\n<br>\n<br>Komentarz: 24 sierpnia wybuchł pożar sklepu Lidl w Kielcach. Załóżmy, że można potraktować to jako spełnienie wizji, choć pożarów jest dużo. Zgadza się południe Polski.<br>https://wiadomosci.radiozet.pl/Polska/Kielce.-Pozar-marketu-Lidl-ugaszony.-Nowe-informacje-i-ZDJECIA</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light mbr-py-1\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">Potężny pożar</h3>\n                <p class=\"mbr-text mbr-fonts-style mbr-py-1\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Data publikacji: 21.08.2020</b> \n<br>Potężny pożar na południu Polski. &nbsp; &nbsp;<br>\n<br>Źródło: <a href=\"https://www.youtube.com/watch?v=ABMcdbFzxjQ \" target=\"_blank\">https://www.youtube.com/watch?v=ABMcdbFzxjQ </a>\n<br>\n<br>Komentarz: 24 sierpnia wybuchł pożar sklepu Lidl w Kielcach. Załóżmy, że można potraktować to jako spełnienie wizji, choć pożarów jest dużo. Ten nie był specjanie epicki, choć relacjonowany intensywnie przez wszystkie serwisy informacyjne. Zgadza się południe Polski.<br><br>https://wiadomosci.radiozet.pl/Polska/Kielce.-Pozar-marketu-Lidl-ugaszony.-Nowe-informacje-i-ZDJECIA</p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "s8Gt8oluGa",
+          "_anchor": "content2-1p",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content2-1p"
+          "_params": {}
         },
         {
           "alias": false,
@@ -1311,11 +1311,11 @@
           "_name": "content2",
           "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light mbr-py-1\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">\n                    Załamanie służby zdrowia</h3>\n                <p class=\"mbr-text mbr-fonts-style mbr-py-1\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Data publikacji: 21.08.2020</b> \n<br>System ochrony zdrowia w Polsce czeka zapaść, załamanie. &nbsp;&nbsp;<br>\n<br>Źródło: <a href=\"https://www.youtube.com/watch?v=ABMcdbFzxjQ\" target=\"_blank\">https://www.youtube.com/watch?v=ABMcdbFzxjQ</a> \n<br>\n<br>Komentarz:&nbsp;</p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "s8GcLHFFy2",
+          "_anchor": "content2-1o",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content2-1o"
+          "_params": {}
         },
         {
           "alias": false,
