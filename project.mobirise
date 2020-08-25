@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Witryna - o co chodzi",
-    "currentPage": "page1.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -44,7 +44,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 60,
+    "uniqCompNum": 65,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -882,11 +882,11 @@
           "_name": "youtube2",
           "_customHTML": "<section class=\"youtube2\" group=\"Images & Videos\" plugins=\"amp-main,amp-youtube\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"range\" inline title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"66\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"text\" title=\"Youtube Video URL\" name=\"videoUrl\" value=\"https://www.youtube.com/watch?v=OoVF1jh9R5Y\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': fullWidth == false}\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"video-title mbr-col-sm-12 align-center\" mbr-class=\"{'mbr-col-md-6': !fullWidth,\n                             'mbr-col-md-12':fullWidth}\">\n                <h2 class=\"mbr-section-title mbr-fonts-style mbr-light\" mbr-class=\"{'mbr-pb-5': !fullWidth, 'mbr-py-2': fullWidth}\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title, .video-title\">\n                    Youtube Video\n                </h2>\n            </div>\n            <div class=\"video-block mbr-m-auto\">\n                <amp-youtube width=\"16\" height=\"9\" layout=\"responsive\" data-videoid=\"lBTCB7yLs8Y\" class=\"mobirise-loader\">\n                    <div placeholder class=\"placeholder\"></div>\n                </amp-youtube>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "s8ihrcCute",
+          "_anchor": "youtube2-1n",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "youtube2-1n"
+          "_params": {}
         },
         {
           "alias": false,
@@ -1255,6 +1255,76 @@
             "background-color": "@bgColor"
           },
           "_name": "content2",
+          "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light mbr-py-1\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">\n                    Eskalacja sytaucji w Chicago i Nowym Yorku</h3>\n                <p class=\"mbr-text mbr-fonts-style mbr-py-1\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Data publikacji: 21.08.2020</b> \n<br>Następne 2/3 miesiące bardzo niebezpieczne. Powszechne strzelaniny. Skojarzenie: \"czarna krew\" - nie ma związku z kwestiami rasowymi. &nbsp; &nbsp;<br>\n<br>Źródło: <a href=\"https://www.youtube.com/watch?v=ABMcdbFzxjQ\" target=\"_blank\">https://www.youtube.com/watch?v=ABMcdbFzxjQ</a> \n<br>\n<br>Komentarz:&nbsp;</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "s8GxzcEp7b",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content2-1r"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-title": {
+              "color": "#04854e"
+            }
+          },
+          "_name": "content2",
+          "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light mbr-py-1\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">\n                    Katastrofa dwóch autokarów</h3>\n                <p class=\"mbr-text mbr-fonts-style mbr-py-1\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Data publikacji: 21.08.2020</b> \n<br>Północno-zachodnia Polska, katastrofa dwóch autokarów. &nbsp; &nbsp;<br>\n<br>Źródło: <a href=\"https://www.youtube.com/watch?v=ABMcdbFzxjQ\" target=\"_blank\">https://www.youtube.com/watch?v=ABMcdbFzxjQ</a> \n<br>\n<br>Komentarz: 22 sierpnia nastąpiło zderzenie busa z autobusem w Gliwicach. 9 osób zginęło. Region kraju zgadza się co do zachodu Polski, lecz południe a nie zapowiadana północ.&nbsp;<br><br>https://www.polsatnews.pl/wiadomosc/2020-08-23/bus-zderzyl-sie-za-autokarem-zginelo-9-osob-sila-uderzenia-byla-ogromna/<br></p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "s8GufYsFC0",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content2-1q"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-title": {
+              "color": "#04854e"
+            }
+          },
+          "_name": "content2",
+          "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light mbr-py-1\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">Potężny pożar</h3>\n                <p class=\"mbr-text mbr-fonts-style mbr-py-1\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Data publikacji: 21.08.2020</b> \n<br>Potężny pożar na południu Polski. &nbsp; &nbsp;<br>\n<br>Źródło: <a href=\"https://www.youtube.com/watch?v=ABMcdbFzxjQ \" target=\"_blank\">https://www.youtube.com/watch?v=ABMcdbFzxjQ </a>\n<br>\n<br>Komentarz: 24 sierpnia wybuchł pożar sklepu Lidl w Kielcach. Załóżmy, że można potraktować to jako spełnienie wizji, choć pożarów jest dużo. Zgadza się południe Polski.<br>https://wiadomosci.radiozet.pl/Polska/Kielce.-Pozar-marketu-Lidl-ugaszony.-Nowe-informacje-i-ZDJECIA</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "s8Gt8oluGa",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content2-1p"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content2",
+          "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light mbr-py-1\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">\n                    Załamanie służby zdrowia</h3>\n                <p class=\"mbr-text mbr-fonts-style mbr-py-1\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Data publikacji: 21.08.2020</b> \n<br>System ochrony zdrowia w Polsce czeka zapaść, załamanie. &nbsp;&nbsp;<br>\n<br>Źródło: <a href=\"https://www.youtube.com/watch?v=ABMcdbFzxjQ\" target=\"_blank\">https://www.youtube.com/watch?v=ABMcdbFzxjQ</a> \n<br>\n<br>Komentarz:&nbsp;</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "s8GcLHFFy2",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content2-1o"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content2",
           "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light mbr-py-1\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">\n                    Strach o dzieci</h3>\n                <p class=\"mbr-text mbr-fonts-style mbr-py-1\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Data publikacji: 15.08.2020</b> \n<br>Czeka nas strach o dzieci taki jakiego jeszcze nie przeżyliśmy. Orientacyjny czas to wrzesień/październik 2020 &nbsp;<br>\n<br>Źródło: <a href=\"https://www.youtube.com/watch?v=6lJVbU77LvE&t=2477s\" target=\"_blank\">https://www.youtube.com/watch?v=6lJVbU77LvE&amp;t=2477s</a> \n<br>\n<br>Komentarz:&nbsp;</p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "s7U30thRWX",
           "_anchor": "content2-1e",
@@ -1287,7 +1357,7 @@
             "background-color": "@bgColor"
           },
           "_name": "content2",
-          "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light mbr-py-1\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">Krwawy rozwój sytuacji na Białorusi</h3>\n                <p class=\"mbr-text mbr-fonts-style mbr-py-1\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Data publikacji: 15.08.2020</b> \n<br>Wsparcie Putina dla Łukaszenki. Sytaucja określana jako \"masakra\". Dużo ofiar.&nbsp;<br>\n<br>Źródło: <a href=\"https://www.youtube.com/watch?v=6lJVbU77LvE&t=2477s\" target=\"_blank\">https://www.youtube.com/watch?v=6lJVbU77LvE&amp;t=2477s</a> \n<br>\n<br>Komentarz:&nbsp;</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light mbr-py-1\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">Krwawy rozwój sytuacji na Białorusi</h3>\n                <p class=\"mbr-text mbr-fonts-style mbr-py-1\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Data publikacji: 15.08.2020, 21.08.2020</b><br>Wsparcie Putina dla Łukaszenki. Sytaucja określana jako \"masakra\". Dużo ofiar.&nbsp;<br>Bezczynność Europy. Prowokacja polskiego poltyka.<br>\n<br>Źródło:<br><a href=\"https://www.youtube.com/watch?v=6lJVbU77LvE&t=2477s\" target=\"_blank\">https://www.youtube.com/watch?v=6lJVbU77LvE&amp;t=2477s</a> <br>\n<a href=\"https://www.youtube.com/watch?v=ABMcdbFzxjQ\" target=\"_blank\">https://www.youtube.com/watch?v=ABMcdbFzxjQ</a>&nbsp;<br>\n<br>Komentarz:&nbsp;</p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "s7U6lh6yx8",
           "_anchor": "content2-1g",
           "_protectedParams": [],
